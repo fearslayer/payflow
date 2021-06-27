@@ -1,7 +1,7 @@
-payflow
+animated_card
 2.12
-file:///C:/Users/jeferson.santos/Documents/Projeto-NLW/payflow/
-file:///C:/Users/jeferson.santos/Documents/Projeto-NLW/payflow/lib/
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/animated_card-2.0.0/
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/animated_card-2.0.0/lib/
 async
 2.12
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.6.1/
@@ -262,4 +262,8 @@ flutter_web_plugins
 2.12
 file:///C:/flutter/packages/flutter_web_plugins/
 file:///C:/flutter/packages/flutter_web_plugins/lib/
+payflow
+2.12
+file:///D:/Projeto%20NLW/payflow/
+file:///D:/Projeto%20NLW/payflow/lib/
 2
